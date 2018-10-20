@@ -1,0 +1,5 @@
+# Object files
+*.o
+
+# Executables
+circular_linked_list
